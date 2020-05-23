@@ -370,5 +370,5 @@ async def on_guild_join(guild):
 
 
 #Doit être utilisé en dernier
-bot.run("")
+bot.run("TOKEN")
 #On met en ligne le bot à partir de son Token (dispo sur le site développeur de discord)
